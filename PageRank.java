@@ -5,3 +5,7 @@ public class PageRank {
  ArrayList<String> incoming_nodes = new ArrayList<String>();
  
 }
+
+public static void main(String Args) {
+
+}
